@@ -1,0 +1,33 @@
+.nav-item a {
+    font-size: 20px;
+    color: goldenrod !important;
+}
+.nav-item a:hover {
+    color: gold !important;
+}
+.header_img {
+    padding: 0;
+}
+.bg_image {
+    background-color: #4a050c !important;
+}
+.navbar-light .navbar-toggler {
+    color: white;
+    border-color: white;
+}
+.navbar-brand {
+    color: gold !important;
+}
+.card_btn {
+    background-color: #4e0101;
+    border: none;
+}
+.card_btn:hover {
+    background-color: #d40b0b;
+}
+.bg_color_yellow {
+    background-color: #fed08d;
+}
+.bg_color_white {
+    background-color: white;
+}
